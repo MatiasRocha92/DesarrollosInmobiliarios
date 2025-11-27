@@ -14,7 +14,7 @@ export default defineNuxtConfig({
 
   site: {
     url: 'https://beltranbriones.com',
-    name: 'Beltran Briones',
+    name: 'Beltrán Briones',
   },
 
   sitemap: {
@@ -45,11 +45,12 @@ export default defineNuxtConfig({
     display: 'swap',
     prefetch: true,
     preconnect: true,
+    subsets: ['latin', 'latin-ext']
   },
 
   app: {
     head: {
-      title: 'Beltran Briones | Desarrollos Inmobiliarios',
+      title: 'Beltrán Briones | Desarrollos Inmobiliarios',
       htmlAttrs: {
         lang: 'es'
       },

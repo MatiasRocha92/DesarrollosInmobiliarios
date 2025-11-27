@@ -715,8 +715,6 @@ const _inlineRuntimeConfig = {
           "/_nuxt/**",
           "/_nuxt/**",
           "/_nuxt/**",
-          "/_nuxt/**",
-          "/_nuxt/**",
           "/_nuxt/**"
         ],
         "includeAppSources": true
@@ -740,7 +738,7 @@ const _inlineRuntimeConfig = {
         "_priority": -3,
         "_context": "nuxt-site-config:config",
         "url": "https://beltranbriones.com",
-        "name": "Beltran Briones"
+        "name": "Beltrán Briones"
       }
     ],
     "version": "3.2.11",
@@ -768,8 +766,6 @@ const _inlineRuntimeConfig = {
       }
     ],
     "sitemap": [
-      "/sitemap.xml",
-      "/sitemap.xml",
       "/sitemap.xml",
       "/sitemap.xml",
       "/sitemap.xml",
@@ -2021,7 +2017,7 @@ const _AQyJ18Of8PV7OYg56n35EyE5sCsameWEsKyWsKZNFIU = defineNitroPlugin(async (ni
 
 const rootDir = "C:/Users/matyc/OneDrive/Escritorio/BeltranBrione";
 
-const appHead = {"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"name":"description","content":"Desarrollos inmobiliarios de lujo y arquitectura moderna. Beltran Brione redefine el concepto de vida premium."},{"name":"format-detection","content":"telephone=no"},{"property":"og:site_name","content":"Beltran Brione"},{"property":"og:type","content":"website"},{"property":"og:title","content":"Beltran Brione | Premium Real Estate"},{"property":"og:description","content":"Desarrollos inmobiliarios de lujo y arquitectura moderna. Beltran Brione redefine el concepto de vida premium."},{"property":"og:image","content":"https://images.unsplash.com/photo-1600596542815-2495db9a9cf6?q=80&w=2500&auto=format&fit=crop"},{"name":"twitter:card","content":"summary_large_image"},{"name":"twitter:title","content":"Beltran Brione | Premium Real Estate"},{"name":"twitter:description","content":"Desarrollos inmobiliarios de lujo y arquitectura moderna."},{"name":"twitter:image","content":"https://images.unsplash.com/photo-1600596542815-2495db9a9cf6?q=80&w=2500&auto=format&fit=crop"}],"link":[{"rel":"icon","type":"image/png","href":"/icons/icons8-b-16.png"},{"rel":"canonical","href":"https://beltranbrione.com"}],"style":[],"script":[],"noscript":[],"title":"Beltran Briones | Desarrollos Inmobiliarios","htmlAttrs":{"lang":"es"}};
+const appHead = {"meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1"},{"name":"description","content":"Desarrollos inmobiliarios de lujo y arquitectura moderna. Beltran Brione redefine el concepto de vida premium."},{"name":"format-detection","content":"telephone=no"},{"property":"og:site_name","content":"Beltran Brione"},{"property":"og:type","content":"website"},{"property":"og:title","content":"Beltran Brione | Premium Real Estate"},{"property":"og:description","content":"Desarrollos inmobiliarios de lujo y arquitectura moderna. Beltran Brione redefine el concepto de vida premium."},{"property":"og:image","content":"https://images.unsplash.com/photo-1600596542815-2495db9a9cf6?q=80&w=2500&auto=format&fit=crop"},{"name":"twitter:card","content":"summary_large_image"},{"name":"twitter:title","content":"Beltran Brione | Premium Real Estate"},{"name":"twitter:description","content":"Desarrollos inmobiliarios de lujo y arquitectura moderna."},{"name":"twitter:image","content":"https://images.unsplash.com/photo-1600596542815-2495db9a9cf6?q=80&w=2500&auto=format&fit=crop"}],"link":[{"rel":"icon","type":"image/png","href":"/icons/icons8-b-16.png"},{"rel":"canonical","href":"https://beltranbrione.com"}],"style":[],"script":[],"noscript":[],"title":"Beltrán Briones | Desarrollos Inmobiliarios","htmlAttrs":{"lang":"es"}};
 
 const appRootTag = "div";
 

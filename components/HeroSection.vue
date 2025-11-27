@@ -16,7 +16,7 @@
     <!-- Content -->
     <div class="relative z-10 text-center text-white px-6 max-w-5xl mx-auto">
       <h1 class="text-6xl md:text-8xl font-serif font-medium tracking-tight mb-6">
-        Beltran Briones
+        BELTRÁN BRIONES
       </h1>
       
       <p class="text-lg md:text-2xl font-light tracking-widest uppercase mb-12 text-white/90">

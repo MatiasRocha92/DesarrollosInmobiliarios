@@ -15,7 +15,7 @@ useHead({
       children: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'RealEstateAgent',
-        'name': 'Beltran Briones',
+        'name': 'Beltrán Briones',
         'image': 'https://images.unsplash.com/photo-1600596542815-2495db9a9cf6?q=80&w=2500&auto=format&fit=crop',
         '@id': 'https://beltranbriones.com',
         'url': 'https://beltranbriones.com',

@@ -6,10 +6,10 @@
     <div class="container mx-auto px-6 flex justify-between items-center">
       <NuxtLink 
         to="/" 
-        class="text-2xl font-serif font-bold tracking-widest uppercase transition-colors duration-300"
+        class="text-2xl font-serif font-bold tracking-widest transition-colors duration-300"
         :class="isScrolled ? 'text-black' : 'text-white'"
       >
-        Beltran Briones
+        BELTRÁN BRIONES
       </NuxtLink>
 
       <nav class="hidden md:flex items-center space-x-10">
